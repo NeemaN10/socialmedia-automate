@@ -18,7 +18,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SakethSripada/Flask-SocialMedia-Automation.git
+   git clone https://github.com/NeemaN10/socialmedia-automate.git
    ```
    
 2. **Obtain API Keys and Credentials**:
